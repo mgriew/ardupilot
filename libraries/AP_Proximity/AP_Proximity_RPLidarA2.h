@@ -150,7 +150,8 @@ private:
     enum class Model {
         UNKNOWN,
         A1,
-        A2,
+        A2M8,
+        A2M12,
         C1,
         S1,
     } model = Model::UNKNOWN;
